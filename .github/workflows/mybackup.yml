@@ -1,5 +1,5 @@
-name: Backup of github
-'on': backup
+name:  github  my actions
+'on': github
 jobs:
   runs-on: ubuntu-latest
   steps:
