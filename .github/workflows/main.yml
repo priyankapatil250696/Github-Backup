@@ -3,7 +3,7 @@ name: Backup of github
 on:
  backup
 
- jobs:
+jobs:
   runs-on: ubuntu-latest
 
    steps:
