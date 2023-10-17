@@ -1,0 +1,18 @@
+name: Backup of github
+
+on:
+ backup
+
+ jobs:
+  runs-on: ubuntu-latest
+
+   steps:
+    -name: Run one line script
+     run: echo "hello world"
+
+     -name: run muliple-line script
+      run: echo "Hii How are you?"
+      echo "Github is installed?"
+      Github --version
+      echo "java is installed"
+      java --version
