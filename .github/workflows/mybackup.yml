@@ -1,4 +1,4 @@
-name:   workflows_dispatch
+
 'on': workflows_dispatch
 jobs:
   runs-on: ubuntu-latest
