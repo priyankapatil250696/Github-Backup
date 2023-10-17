@@ -1,6 +1,6 @@
 'on': push
 jobs:
-  runs-on: ubuntu-latest
+ runs-on: ubuntu-latest
   steps:
     '-name': Run one line script
   run: |-
