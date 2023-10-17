@@ -1,5 +1,5 @@
-name:  github  my actions
-'on': github
+name:  backup workflows
+'on': workflows
 jobs:
   runs-on: ubuntu-latest
   steps:
